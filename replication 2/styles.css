@@ -1,0 +1,132 @@
+
+#bgimage
+{
+   height: 747px;
+   left: 0;
+   margin: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+   
+   
+  
+  
+}
+
+
+.top-right{
+    color:#ffffff;;
+    margin-left: 71%;
+    font-size:x-large;
+    font-family : sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+  
+    
+    }
+    .navbar{
+        
+        position: fixed;
+        overflow: hidden;
+     position: fixed;
+    }
+    
+    .flexbox{
+       
+        margin-top: 50px;
+        justify-content: center;
+        margin-right: 170px;
+        display: flex;
+       
+    }
+    nav a {
+        color : #ffffff;;
+        text-decoration : none;
+        padding : 20px;
+        font-size : large   ;
+        font-family : sans-serif;
+        text-size-adjust : 100%;
+        cursor : pointer;
+        position:relative;
+        
+    }
+    a:active{
+      background-color:#009cdb;
+      
+      transition: background-color 0.6s;
+  }
+    a.child1 {
+        color: #ffffff;;
+        
+    }
+    a.child1:hover{
+color: #009cdb;
+    }
+    
+    a.child2 {
+        color: #ffffff;;
+    
+    }
+    a.child2:hover{
+        color: #009cdb;
+            }
+    
+    a.child3 {
+        color: #ffffff;;
+    
+    }
+    a.child3:hover{
+        color: #009cdb;
+            }
+    
+    
+    
+    .navbar-logo {
+    height: 100px;
+    margin-left: 240px; 
+    
+    }
+
+
+    .container{
+        font-size: 50.0pt;
+    line-height: 107%;
+    font-family: 'Calibri',sans-serif;
+    color: #ffffff;
+    position: absolute;
+   margin-left: 240px;
+    
+   
+    }
+    .container1{
+        font-style: inherit;
+        color: #ffffff;
+            font-family: Noto Sans SC;
+            font-size: 21px;
+            font-weight: 300;
+            text-align: left;
+            position: absolute;
+            line-height: 1.8em;
+            font-family: Noto Sans SC !important;
+    margin-left: 240px;
+        }
+
+
+.container{
+    display: flex;
+}
+.button{
+    color:#ffffff;
+    background-color: #ffca1e;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 500;
+    border-top-left-radius: 0px;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    padding: 25px 25px 20px 25px;
+    cursor: pointer;
+ }
+
+    
